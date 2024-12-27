@@ -1,0 +1,36 @@
+{
+  "name": "axe-theme",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tabler/icons-vue": "^3.7.0",
+    "@vueuse/core": "^10.11.0",
+    "@wdns/vue-code-block": "^2.3.2",
+    "apexcharts": "^3.49.2",
+    "flowbite": "^2.3.0",
+    "flowbite-vue": "^0.1.5",
+    "gridjs-vue": "^5.0.4",
+    "pinia": "^2.1.7",
+    "tailwind-merge": "^2.3.0",
+    "twind": "^0.16.19",
+    "vite-svg-loader": "^5.1.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.3",
+    "vue3-apexcharts": "^1.5.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.7",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "sass": "^1.77.6",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.2.0"
+  }
+}
